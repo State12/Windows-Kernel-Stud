@@ -1,0 +1,6 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Event.c
+  MyDriver1.vcxproj -> C:\Users\Lenovo\source\repos\MyDriver1\x64\Debug\MyDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Lenovo\source\repos\MyDriver1\x64\Debug\MyDriver1.sys
+  
